@@ -1,0 +1,41 @@
+rank,Country,Score,GDP,Social_support,Health_life_expectancy,Freedom,Generosity,Corruption,Region,Continent
+1,Finland,7.769,1.34,1.587,0.986,0.596,0.153,0.393,Scandinavia,Europe
+2,Denmark,7.6,1.383,1.573,0.996,0.592,0.252,0.41,Scandinavia,Europe
+3,Norway,7.554,1.488,1.582,1.028,0.603,0.271,0.341,Scandinavia,Europe
+4,Iceland,7.494,1.38,1.624,1.026,0.591,0.354,0.118,Scandinavia,Europe
+5,Netherlands,7.488,1.396,1.522,0.999,0.557,0.322,0.298,Western Europe,Europe
+6,Switzerland,7.48,1.452,1.526,1.052,0.572,0.263,0.343,Central Europe,Europe
+7,Sweden,7.343,1.387,1.487,1.009,0.574,0.267,0.373,Scandinavia,Europe
+8,New Zealand,7.307,1.303,1.557,1.026,0.585,0.33,0.38,Oceania,Austrailia/Oceania
+9,Canada,7.278,1.365,1.505,1.039,0.584,0.285,0.308,North America,North America
+10,Austria,7.246,1.376,1.475,1.016,0.532,0.244,0.226,Central Europe,Europe
+11,Australia,7.228,1.372,1.548,1.036,0.557,0.332,0.29,Oceania,Austrailia/Oceania
+12,Costa Rica,7.167,1.034,1.441,0.963,0.558,0.144,0.093,Central America,North America
+13,Israel,7.139,1.276,1.455,1.029,0.371,0.261,0.082,Middle East,Asia
+14,Luxembourg,7.09,1.609,1.479,1.012,0.526,0.194,0.316,Western Europe,Europe
+15,United Kingdom,7.054,1.333,1.538,0.996,0.45,0.348,0.278,Western Europe,Europe
+16,Ireland,7.021,1.499,1.553,0.999,0.516,0.298,0.31,Western Europe,Europe
+17,Germany,6.985,1.373,1.454,0.987,0.495,0.261,0.265,Western Europe,Europe
+18,Belgium,6.923,1.356,1.504,0.986,0.473,0.16,0.21,Western Europe,Europe
+19,United States,6.892,1.433,1.457,0.874,0.454,0.28,0.128,North America,North America
+20,Czech Republic,6.852,1.269,1.487,0.92,0.457,0.046,0.036,Central Europe,Europe
+21,United Arab Emirates,6.825,1.503,1.31,0.825,0.598,0.262,0.182,Middle East,Asia
+22,Malta,6.726,1.3,1.52,0.999,0.564,0.375,0.151,Southern Europe,Europe
+23,Mexico,6.595,1.07,1.323,0.861,0.433,0.074,0.073,Central America,North America
+24,France,6.592,1.324,1.472,1.045,0.436,0.111,0.183,Western Europe,Europe
+25,Taiwan,6.446,1.368,1.43,0.914,0.351,0.242,0.097,East Asia,Asia
+26,Chile,6.444,1.159,1.369,0.92,0.357,0.187,0.056,South America,South America
+27,Guatemala,6.436,0.8,1.269,0.746,0.535,0.175,0.078,Central America,North America
+28,Saudi Arabia,6.375,1.403,1.357,0.795,0.439,0.08,0.132,Middle East,Asia
+29,Qatar,6.374,1.684,1.313,0.871,0.555,0.22,0.167,Middle East,Asia
+30,Spain,6.354,1.286,1.484,1.062,0.362,0.153,0.079,Western Europe,Europe
+31,Panama,6.321,1.149,1.442,0.91,0.516,0.109,0.054,Central America,North America
+32,Brazil,6.3,1.004,1.439,0.802,0.39,0.099,0.086,South America,South America
+33,Uruguay,6.293,1.124,1.465,0.891,0.523,0.127,0.15,South America,South America
+34,Singapore,6.262,1.572,1.463,1.141,0.556,0.271,0.453,Oceania,Austrailia/Oceania
+35,El Salvador,6.253,0.794,1.242,0.789,0.43,0.093,0.074,Central America,North America
+36,Italy,6.223,1.294,1.488,1.039,0.231,0.158,0.03,Southern Europe,Europe
+37,Bahrain,6.199,1.362,1.368,0.871,0.536,0.255,0.11,Middle East,Asia
+38,Slovakia,6.198,1.246,1.504,0.881,0.334,0.121,0.014,Central Europe,Europe
+39,Trinidad & Tobago,6.192,1.231,1.477,0.713,0.489,0.185,0.016,Caribbean,North America
+40,Poland,6.182,1.206,1.438,0.884,0.483,0.117,0.05,Central Europe,Europe
